@@ -1,0 +1,7 @@
+{
+    "UniqueModName": "nbk_redspy_QM_RemoveProjectCommand",
+    "Assemblies": [
+        "QM_RemoveProjectCommand.dll"
+    ],
+    "Dependencies": []
+}
