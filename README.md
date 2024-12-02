@@ -4,6 +4,11 @@
 
 A command to free up a weapon or armor upgrade project.
 
+# Version .8+ Update:
+This mod is no longer needed.
+Version .8+ now supports removing weapon projects.  Reverse the attribute upgrades until the project shows 0/X upgrades.  Then  start the research.  
+After this "undo" project is finished, the weapon project slot will be made available again.
+
 # Automatic Backup
 Before the command modifies a save slot, a backup zip file for the target save files will be created in the game's user folder.
 
