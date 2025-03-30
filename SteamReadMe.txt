@@ -14,7 +14,7 @@ After this "undo" project is finished, the weapon project slot will be made avai
 Before the command modifies a save slot, a backup zip file for the target save files will be created in the game's user folder.
 
 Example:
-[i]%AppData%\..\LocalLow\Magnum Scriptum Ltd\Quasimorph\slot_2_20240730_171029_698.zip[/i]
+[i]%AppData%\..\LocalLow\Magnum Scriptum Ltd\Quasimorph_ModConfigs\slot_2_20240730_171029_698.zip[/i]
 
 The file name is created with a date based suffix.
 
